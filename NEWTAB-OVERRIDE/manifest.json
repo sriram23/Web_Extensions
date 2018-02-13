@@ -1,0 +1,8 @@
+{"manifest_version":2,
+"name":"Tab Override",
+"description":"Displays a short message whenever a new tab is opened using ctrl+t",
+"homepage_url":"http://sriram-profile.firebaseapp.com",
+"version":"1.0",
+"icons":{ "48":"icons/icon-48.png", 
+		  "96":"icons/icon-96.png"},
+"chrome_url_overrides":{"newtab":"popup.html"}}
