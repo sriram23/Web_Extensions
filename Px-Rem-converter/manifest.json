@@ -1,0 +1,12 @@
+{"manifest_version":2,
+"name":"PX to REM converter",
+"description":"A simple tool to convert pixel value to rem",
+"homepage_url":"https://github.com/sriram23",
+"version":"1.0",
+"browser_action" : {
+	"default_popup" : "popup/popup.html",
+	"default_title" : "Px to Rem Converter"
+},
+"content_security_policy": "script-src 'self' 'sha256-wCwWPDCbcPTnB8kO0bAR0GT54lbSMqvkfFeCh0wmDD8='; object-src 'self'"
+
+}
