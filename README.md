@@ -1,5 +1,6 @@
 # About Me
+Hey World!
 
-Hi,
-I am Sriram.B from Coimbatore, pursuing *BE ComputerScience and Engineering* at *KGiSL Institute of Technology*, Coimbatore.
-This repository contains the addons that are compatible with popular browsers.
+My name is Sriram. I am a Computer Science Enginnering graduate from Coimbatore, India. I have experience working with Front-End technologies like React, React Native, Vue.js. Currently on my path learning Python and Rust.
+
+Check out my addons here: https://addons.mozilla.org/en-US/firefox/user/12637768/
