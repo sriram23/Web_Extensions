@@ -1,0 +1,13 @@
+{"manifest_version":2,
+"name":"Analog Clock",
+"description":"A Analog clock created with html and css",
+"homepage_url":"https://github.com/sriram23",
+"version":"1.0",
+"icons":{ "48":"icons/icon-48.png", 
+		  "96":"icons/icon-96.png",
+		  "64":"icons/icon-64.png"},
+"browser_action" : {
+	"default_popup" : "clock/index.html",
+	"default_title" : "Analog Clock"
+}
+}
